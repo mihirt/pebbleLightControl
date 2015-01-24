@@ -1,0 +1,8 @@
+argv = ['/Users/Mihir/pebble-dev/PebbleSDK-2.7/Pebble/waf', 'configure', 'build']
+environ = {'TERM_SESSION_ID': 'BF139756-BCB8-4142-8D50-FD1F2ECB61A3', 'PYTHONPATH': '/Users/Mihir/pebble-dev/PebbleSDK-current/bin/../.env/lib/python2.7/site-packages', 'SSH_AUTH_SOCK': '/tmp/launch-Gd9MDU/Listeners', 'TERM_PROGRAM_VERSION': '326', 'SHELL': '/bin/bash', 'LOGNAME': 'Mihir', 'USER': 'Mihir', 'HOME': '/Users/Mihir', 'PATH': '/Users/Mihir/pebble-dev/PebbleSDK-current/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/Users/Mihir/anaconda/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Users/Mihir/pebble-dev/PebbleSDK-2.7/arm-cs-tools/bin', 'TMPDIR': '/var/folders/m8/btyyn1sx2n7d8_83m3lcd6sw0000gn/T/', 'TERM_PROGRAM': 'Apple_Terminal', 'LANG': 'en_US.UTF-8', 'TERM': 'xterm-256color', 'Apple_PubSub_Socket_Render': '/tmp/launch-09DZQ8/Render', 'SHLVL': '2', 'MACOSX_DEPLOYMENT_TARGET': '10.5', '__CF_USER_TEXT_ENCODING': '0x1F5:0:0', 'PWD': '/Users/Mihir/lightControl', '_': '/Users/Mihir/pebble-dev/PebbleSDK-2.7/Pebble/waf', '__CHECKFIX1436934': '1'}
+files = ['/Users/Mihir/lightControl/wscript']
+hash = -4920802154914160327
+options = {'files': '', 'jobs': 4, 'verbose': 0, 'nocache': False, 'progress_bar': 0, 'timestamp': None, 'distcheck_args': None, 'top': '', 'destdir': '', 'keep': 0, 'zones': '', 'debug': False, 'prefix': '/usr/local/', 'download': False, 'force': False, 'targets': '', 'out': ''}
+out_dir = '/Users/Mihir/lightControl/build'
+run_dir = '/Users/Mihir/lightControl'
+top_dir = '/Users/Mihir/lightControl'
